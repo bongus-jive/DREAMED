@@ -1,0 +1,26 @@
+[
+	{
+		"op" : "add",
+		"path" : "/panels",
+		"value" : [{
+			"drawables" : [{"image" : "/cinematics/pat_dreamed.png"}],
+			"keyframes" : [
+				{
+					"timecode" : 0,
+					"alpha" : 1,
+					"zoom" : 0.5,
+					"position" : [480, 270],
+					"complete" : true
+				},
+				{
+					"timecode" : 10000000000 //about 317 years
+				}
+			]
+		}]
+	},
+	{
+		"op" : "add",
+		"path" : "/audio",
+		"value" : []
+	}
+]
