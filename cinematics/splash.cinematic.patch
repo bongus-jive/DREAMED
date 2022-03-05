@@ -1,6 +1,11 @@
 [
 	{
 		"op" : "add",
+		"path" : "/pat_dreamed",
+		"value" : true
+	},
+	{
+		"op" : "add",
 		"path" : "/panels",
 		"value" : [{
 			"drawables" : [{"image" : "/cinematics/pat_dreamed.png"}],
