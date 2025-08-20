@@ -1,11 +1,12 @@
 {
-  "version" : "1.0.1",
   "author" : "pat",
-  "tags" : "Miscellaneous",
-  "description" : "replaces the entire game with dreamed.png\n\n\n[url=https://discord.gg/GdsQSgV][img]https://i.imgur.com/KBFQlg2.png[/img][/url]",
-  "name" : "pat_dreamed",
+  "description" : "replaces the entire game with dreamed.png",
   "friendlyName" : "dreamed",
+  "link" : "steam://url/CommunityFilePage/2769089724",
+  "name" : "pat_dreamed",
   "priority" : 9999999,
   "steamContentId" : "2769089724",
-  "link" : "steam://url/CommunityFilePage/2769089724"
+  "steamDescription" : "replaces the entire game with dreamed.png\n\n\n[url=https://discord.gg/GdsQSgV][img]https://i.imgur.com/KBFQlg2.png[/img][/url]\n[url=https://www.patreon.com/pathiccstar][img]https://cdn.discordapp.com/emojis/903033890774614016.png?size=24[/img][/url]\n[url=https://ko-fi.com/patmanf][img]https://cdn.discordapp.com/emojis/903033890774614016.png?size=24[/img][/url]\n[url=https://github.com/bongus-jive/DREAMED][img]https://cdn.discordapp.com/emojis/903033890774614016.png?size=24[/img][/url]",
+  "tags" : "Miscellaneous",
+  "version" : "1.0.2"
 }
